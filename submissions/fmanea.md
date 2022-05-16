@@ -1,4 +1,4 @@
 # Router Track Mission 1 (09.05-16.05)
 
-My router address is: 0x...
-Added liquidity: 0x...
+My router address is: 0x36802f05EA23968DbD5010084Da25104a88FB6d0
+Added liquidity: 0xB7b1d3cC52E658922b2aF00c5729001ceA98142C, 0xD426e23A6a9524101CDC017e01dDc3262B7aA65D, 0xB5AabB55385bfBe31D627E2A717a7B189ddA4F8F
